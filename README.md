@@ -1,8 +1,5 @@
 # PlataformaSinergia
 El repositorio oficial de PlataformaSinergia: Un hub descentralizado donde la razón se encuentra con la acción, y el pensamiento divergente se transforma en un impacto ilimitado.
-¡Excelente! El archivo `README.md` es la carta de presentación de tu proyecto. Debe ser claro, inspirador y detallado para que los colaboradores comprendan la visión y se sientan motivados a unirse.
-
-Aquí tienes una propuesta de `README.md` para el repositorio.
 
 ---
 
